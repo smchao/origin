@@ -4,9 +4,9 @@ source 'https://rubygems.org'
 # Bundle edge Rails instead: gem 'rails', github: 'rails/rails'
 gem 'rails', '4.1.8'
 
-group :development do 
+#group :development do 
    gem 'sqlite3', '>=1.3.5'
-end
+#end
 
 group :assets do
    gem 'sass-rails', '~> 4.0.3'
